@@ -1,0 +1,7 @@
+/*
+ *  Author: KaptainCS3
+ *  Description: auto Keyword
+ *  Date: 17th March 2022
+ */
+
+The auto keyword allows you to automatically deduct the type of the variable being declared. It infers the data type of the variable from its value.
